@@ -20,7 +20,7 @@
   
   ##
   
-  Atualmente eu estudo Ciência de Dados na Sirius Education e tenho conhecimento nas seguintes linguagens
+  Atualmente estudo Ciência de Dados na Sirius Education tendo as seguintes competências
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Phael-PY" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,12 +31,6 @@
 </div>
 
 ##
-
-<div>
-<a href = "mailto:raphaelfsg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-gomes-844449a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://public.tableau.com/app/profile/raphael.gomes" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-  </div>
   
   
   
