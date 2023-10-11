@@ -1,6 +1,6 @@
-### Olá! Meu nome é Raphael Gomes  
+### Hello, my name is Raphael Gomes
 
-Atualmente, sou participante do desafio de Desenvolvimento FullStack Java no bootcamp da Generation Brasil, um desafio único e especial que é acompanhado de perto por pessoas maravilhosas.
+I'm a Jr FullStack Java Developer
 
 ##
 
@@ -12,7 +12,7 @@ Atualmente, sou participante do desafio de Desenvolvimento FullStack Java no boo
   
   ##
   
-  Você pode me contatar por:
+  Ways you can contact me:
   
  <div>
 <a href = "mailto:raphaelfsg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,31 +22,37 @@ Atualmente, sou participante do desafio de Desenvolvimento FullStack Java no boo
   
   ##
   
-  Possuo as seguintes competências ativas:
+  Programming languages
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Phael-Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Phael-Github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg">
-   <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
   <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/trello/trello-plain-wordmark.svg">
-  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="Phael-PY" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
+
+Libraries & Frameworks
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg">
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg">
+  <img align="center" alt="Phael-Pd" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+</div>
+
+##
+
+Tools & Platforms
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Phael-Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/intellij/intellij-original.svg">  
+  <img align="center" alt="Phael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/trello/trello-plain-wordmark.svg">
   
-  Também possuo as seguintes competências:
-
-  <div style="display: inline_block"><br>
-     <img align="center" alt="Phael-PY" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Phael-Pd" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   </div>
-
+  
   ##
 
   
